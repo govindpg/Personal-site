@@ -1,0 +1,123 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 200%;
+
+}
+h1{
+    margin-top: 10px;
+    font-size: 5rem;
+    font-family: 'Ms Madi', cursive;
+    color: #0D4C92;
+    
+  
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.1rem;
+    font-weight: bold;
+    
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #0D4C92;
+}
+
+.topportion{
+    background-color: #BCEAD5;
+    border-top-width: 100px;
+    height: 600px;
+    position: relative;
+    padding-top: 310px;
+    
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    
+}
+.my{
+    width: 20%;
+    margin: auto 100px auto 100px;
+    right: 10px;
+    float: left;
+}
+.profile{
+    height: 400px;
+    line-height: 2;
+    text-align: left;
+
+}
+hr{
+   border: dotted #497174 6px;
+   border-bottom: none;
+   width: 40%;
+   margin: 100px auto 100px auto;
+   
+}
+.code{
+    width: 10%;
+    float: left;
+    margin: auto 50px auto 50px;
+    
+}
+.skills{
+    font-size: 20p;
+}
+.skill-row{
+ text-align: left;   
+ line-height: 1;
+ 
+}
+.poster{
+    width: 10%;
+    float: right;
+    margin: auto 50px auto 50px;
+}
+.skill-row1{
+    text-align: right;
+}
+.bottom{
+    width: 100%;
+    background-color: #BCEAD5;
+    
+    padding: 50px 0px 20px
+}
+a{
+    background-color: #BCEAD5;
+    font-family: 'Montserrat', sans-serif;
+    margin: 20px 30px;
+}
+.btn {
+    background: #0D4C92;
+    background-image: -webkit-linear-gradient(top, ##0a4a8f, #1673ad);
+    background-image: -moz-linear-gradient(top, ##0a4a8f, #1673ad);
+    background-image: -ms-linear-gradient(top, ##0a4a8f, #1673ad);
+    background-image: -o-linear-gradient(top, ##0a4a8f, #1673ad);
+    background-image: linear-gradient(to bottom, ##0a4a8f, #1673ad);
+    -webkit-border-radius: 60;
+    -moz-border-radius: 60;
+    border-radius: 60px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 35px;
+    background: #0D4C92;
+    padding: 10px 20px 10px 20px;
+    border: solid #0a4a8f 0px;
+    text-decoration: none;
+    
+    
+  }
+.contact-me{
+    margin: 10px auto 30px auto;
+    padding-bottom: 4%;
+    
+}
+  
